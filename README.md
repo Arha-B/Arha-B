@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Arha-B">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Arha!" alt="Hello! I&#39;m Arha!" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a371f7&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Arha!" alt="Hello! I&#39;m Arha!" />
   </a>
 </p>
 
