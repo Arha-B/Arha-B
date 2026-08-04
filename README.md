@@ -56,5 +56,3 @@ A current high school senior who started off with front end, and is currently wo
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/Arha-B">Arha-B</a></i></p>
