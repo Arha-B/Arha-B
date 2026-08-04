@@ -12,7 +12,7 @@
 
 A current high school senior who started off with front end, and is currently working on back end development. I'm always ready to learn!
 
-  &nbsp;I'm currently working on **a horror extraction game **  
+  &nbsp;I'm currently working on **a horror extraction game**  
   &nbsp;I'm currently learning **C sharp, unity game sys, and back end stuff**
 
 ### Tech Stack
